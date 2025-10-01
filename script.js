@@ -10,7 +10,8 @@ document.addEventListener("DOMContentLoaded", function() {
             toggleButton.textContent = "Ocultar información";
         } else {
             extraInfo.style.display = "none";
-            toggleButton.textContent = "Mostrar más información";
+            toggleButton.textContent = "Mostrar más información de Eclipse";
         }
     });
 });
+alert("Hola, Buenas") 
